@@ -4,7 +4,7 @@ BASE_HOA = {
   :jetsons => ["George", "Jane", "Judy", "Elroy"]
 }
 BASE_HOA[:chipmunks]
->>"Dave"
+<<"Dave"
 
 
 def add_character(show, name)
